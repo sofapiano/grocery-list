@@ -5,3 +5,10 @@
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
+.container {
+    background-color: #F5BB00;
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
